@@ -35,7 +35,7 @@ def get_birthday():
   return (next - today).days
 
 def get_words():
-  words = ("Distance makes the hearts grow fonder")
+  words = "Distance makes the hearts grow fonder"
   
 
 def get_random_color():
